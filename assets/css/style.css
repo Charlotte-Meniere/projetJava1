@@ -1,0 +1,23 @@
+body {
+  background-color: aliceblue;
+}
+body .inscription {
+  background-color: rgba(112, 198, 255, 0.685);
+  display: flex;
+  flex-direction: row;
+  width: 50vw;
+  height: 60vh;
+}
+body .colonne-left {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  width: 20vw;
+}
+body .colonne-right {
+  display: flex;
+  justify-content: center;
+  width: 20vw;
+}
+
+/*# sourceMappingURL=style.css.map */
